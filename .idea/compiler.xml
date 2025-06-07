@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Konfio_Pets.app" target="21" />
+      <module name="Konfio_Pets.core" target="21" />
+      <module name="Konfio_Pets.core.common" target="21" />
+      <module name="Konfio_Pets.core.data" target="21" />
+      <module name="Konfio_Pets.core.database" target="21" />
+      <module name="Konfio_Pets.core.design" target="21" />
+      <module name="Konfio_Pets.core.domain" target="21" />
+      <module name="Konfio_Pets.core.model" target="21" />
+      <module name="Konfio_Pets.core.network" target="21" />
+      <module name="Konfio_Pets.feature" target="21" />
+      <module name="Konfio_Pets.feature.home" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
